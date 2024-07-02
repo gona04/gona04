@@ -1,7 +1,33 @@
 <h1 align="center">Hi 👋, I'm Goonja Gandhi</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [emotional-diary](https://github.com/gona04/emotional-diary.git)
+# About Me
+
+Hello! I'm Goonja Gandhi, an experienced software developer with a unique background in arts and a deep passion for coding. My journey began as an arts student, where my fascination with linguistic philosophy significantly improved my communication skills despite being dyslexic. This sparked my curiosity about the deeper implications of linguistic philosophy, leading me to the world of programming. Since then, my interest and expertise have continually grown.
+
+With over 5 years of experience, I specialize primarily as a frontend developer but have also worked extensively in cross-functional teams, giving me a well-rounded skill set in full-stack development. My dedication to coding is matched by my eagerness to learn and grow, constantly seeking new challenges and opportunities to enhance my skills.
+
+## Skills
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks**: React, Angular, Express.js
+- **Tools**: Firebase, GitHub Actions, Azure, MySQL
+- **Other**: Accessibility, Responsive Design, User Experience
+
+## Projects
+### Weather App
+- **GitHub**: [Weather App](https://github.com/gona04/weather-app)
+- **Deployed Front-end**: [weather-app-44bc2.web.app](https://weather-app-44bc2.web.app/)
+- **Deployed Backend**: [API Endpoint](https://us-central1-weather-app-44bc2.cloudfunctions.net/weather_api/api/user-details)
+
+This project demonstrates my ability to create responsive and accessible web applications. The Weather App saves users' IP address, country, and city information, displaying weather details based on their geolocation. It also features CI/CD integration using GitHub Actions.
+
+### Emotional Diary
+A project close to my heart, Emotional Diary combines my passion for psychology and coding. The app allows users to write daily diary entries, which are then analyzed to identify cognitive distortions or thinking traps. Although still a work in progress, I am committed to its continuous improvement and welcome any suggestions or feedback.
+
+## Let's Connect
+I'm always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/) or via email at goonjagandhi@example.com.
+
+Thank you for visiting my profile!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
