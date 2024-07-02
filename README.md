@@ -7,12 +7,6 @@ Hello! I'm Goonja Gandhi, an experienced software developer with a unique backgr
 
 With over 5 years of experience, I specialize primarily as a frontend developer but have also worked extensively in cross-functional teams, giving me a well-rounded skill set in full-stack development. My dedication to coding is matched by my eagerness to learn and grow, constantly seeking new challenges and opportunities to enhance my skills.
 
-## Skills
-- **Languages**: JavaScript, TypeScript, Python
-- **Frameworks**: React, Angular, Express.js
-- **Tools**: Firebase, GitHub Actions, Azure, MySQL
-- **Other**: Accessibility, Responsive Design, User Experience
-
 ## Projects
 ### Weather App
 - **GitHub**: [Weather App](https://github.com/gona04/weather-app)
