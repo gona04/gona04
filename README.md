@@ -25,7 +25,7 @@ This project demonstrates my ability to create responsive and accessible web app
 A project close to my heart, Emotional Diary combines my passion for psychology and coding. The app allows users to write daily diary entries, which are then analyzed to identify cognitive distortions or thinking traps. Although still a work in progress, I am committed to its continuous improvement and welcome any suggestions or feedback.
 
 ## Let's Connect
-I'm always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/) or via email at goonjagandhi@example.com.
+I'm always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/) or via email at gona.gandhi@gmail.com.
 
 Thank you for visiting my profile!
 
