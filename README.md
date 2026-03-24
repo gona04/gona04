@@ -94,15 +94,6 @@ React • Node.js • PostgreSQL • AWS
 
 ---
 
-## 📸 Project Preview
-
-<p align="center">
-  <!-- Replace with actual screenshots -->
-  <img src="ADD_SCREENSHOT_LINK" width="700"/>
-</p>
-
----
-
 ## 📈 What I Focus On
 
 * Building systems, not just features
