@@ -54,7 +54,7 @@ React • Node.js • PostgreSQL • AWS
 ### ⚙️ Custom Reactive JavaScript Engine
 
 <p>
-  📦 <b>Code:</b> <a href="#https://github.com/gona04/custom-js-framework">Repo</a>
+  📦 <b>Code:</b> <a href="https://github.com/gona04/custom-js-framework">Repo</a>
 </p>
 
 * Built a lightweight reactivity system inspired by React internals
